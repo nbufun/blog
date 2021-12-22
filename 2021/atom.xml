@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[mweb]]></title>
-  <link href="https://nbufun.github.io/blog/atom.xml" rel="self"/>
-  <link href="https://nbufun.github.io/blog/"/>
-  <updated>2021-12-22T21:57:55+08:00</updated>
-  <id>https://nbufun.github.io/blog/</id>
+  <link href="https://nbufun.github.io/blog/2021/atom.xml" rel="self"/>
+  <link href="https://nbufun.github.io/blog/2021/"/>
+  <updated>2021-12-22T23:16:42+08:00</updated>
+  <id>https://nbufun.github.io/blog/2021/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -14,9 +14,9 @@
   
   <entry>
     <title type="html"><![CDATA[动态化方案VirtualView的实战与思考]]></title>
-    <link href="https://nbufun.github.io/blog/16399995286631.html"/>
+    <link href="https://nbufun.github.io/blog/2021/16399995286631.html"/>
     <updated>2021-12-20T19:25:28+08:00</updated>
-    <id>https://nbufun.github.io/blog/16399995286631.html</id>
+    <id>https://nbufun.github.io/blog/2021/16399995286631.html</id>
     <content type="html"><![CDATA[
 <p><strong>前言：</strong><br />
 本篇文章主要按照VirtualView理论部分（是什么、为什么）、实践部分（怎么样）以及遇到问题是怎样改进（有没有更好的方法）的思路去阐述介绍的，理论部分有助于我们理解它的工作原理，实践部分有助于我们掌握它的优缺以及边界。</p>
