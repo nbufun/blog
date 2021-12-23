@@ -4,13 +4,35 @@
   <title><![CDATA[andmore]]></title>
   <link href="https://nbufun.github.io/blog/2021/atom.xml" rel="self"/>
   <link href="https://nbufun.github.io/blog/2021/"/>
-  <updated>2021-12-22T23:53:09+08:00</updated>
+  <updated>2021-12-23T12:17:59+08:00</updated>
   <id>https://nbufun.github.io/blog/2021/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[专利]]></title>
+    <link href="https://nbufun.github.io/blog/2021/16401895522618.html"/>
+    <updated>2021-12-23T00:12:32+08:00</updated>
+    <id>https://nbufun.github.io/blog/2021/16401895522618.html</id>
+    <content type="html"><![CDATA[
+<ul>
+<li><a href="https://zhuanli.tianyancha.com/62307b292cc4363d041f8acb742479fb">一种基于用户行为特征的用户身份验证方法及装置</a></li>
+<li><a href="https://zhuanli.tianyancha.com/f01da2a4f830439c92d638c677255091">一种基于用户操作行为特征的身份验证方法和装置</a></li>
+<li><a href="https://zhuanli.tianyancha.com/6f7c53876c64d325d6386c87475e6d1c">一种基于地理位置和触压面积的身份验证方法及装置</a></li>
+<li><a href="http://www.xjishu.com/zhuanli/62/201710940386_3.html">一种基于地理位置的身份验证方法及装置与流程</a></li>
+<li><a href="https://wenku.baidu.com/view/7af94260a2116c175f0e7cd184254b35effd1a40.html">一种基于点击位置的身份验证方法和装置</a></li>
+<li><a href="https://wenku.baidu.com/view/412f8d298beb172ded630b1c59eef8c75fbf95a5.html">一种基于触压面积的身份验证方法和装置</a></li>
+<li><a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1h2c0a00ac7m08d0t6100430xd263131">一种基于点击位置的身份验证方法和装置</a></li>
+<li><a href="https://wenku.baidu.com/view/b5278000122de2bd960590c69ec3d5bbfd0adaae.html">一种多维度用户身份验证方法及装置</a></li>
+<li><a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1w560c90ug390rf0ks6m0pg08n031131">一种基于陀螺仪波动行为的用户身份验证方法,装置及系统</a></li>
+<li><a href="https://wenku.baidu.com/view/7c97b2015af5f61fb7360b4c2e3f5727a4e92412.html">一种基于输入时间间隔的身份验证方法和装置</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[动态化方案VirtualView的实战与思考]]></title>
