@@ -4,7 +4,7 @@
   <title><![CDATA[andmore]]></title>
   <link href="https://nbufun.github.io/blog/2021/atom.xml" rel="self"/>
   <link href="https://nbufun.github.io/blog/2021/"/>
-  <updated>2021-12-23T17:37:05+08:00</updated>
+  <updated>2021-12-23T17:44:26+08:00</updated>
   <id>https://nbufun.github.io/blog/2021/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -18,7 +18,9 @@
     <updated>2021-12-23T17:34:58+08:00</updated>
     <id>https://nbufun.github.io/blog/2021/16402520981792.html</id>
     <content type="html"><![CDATA[
-<p><a href="media/16402520981792/%E5%AD%98%E5%82%A8%E6%96%B9%E6%A1%88%E5%89%96%E6%9E%90.pdf">存储方案剖析</a></p>
+<blockquote>
+<p><a href="media/16402520981792/cache_research.pdf">cache_research</a></p>
+</blockquote>
 
 ]]></content>
   </entry>
