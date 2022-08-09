@@ -4,7 +4,7 @@
   <title><![CDATA[AndMore]]></title>
   <link href="https://nbufun.github.io/blog/2021/atom.xml" rel="self"/>
   <link href="https://nbufun.github.io/blog/2021/"/>
-  <updated>2022-08-09T19:40:06+08:00</updated>
+  <updated>2022-08-09T19:44:03+08:00</updated>
   <id>https://nbufun.github.io/blog/2021/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -20,10 +20,10 @@
     <content type="html"><![CDATA[
 <h2><a id="%E7%9B%AE%E7%9A%84" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>目的</h2>
 <p><strong>1、去除C</strong><br />
-2、吸收更多现代语言的特性<br />
-3、更快、更安全、提高开发效率<br />
-4、吸引更多的开发者进入，更低门槛<br />
-5、面向未来的尝试，比如playground（可视化编程）</p>
+<strong>2、吸收更多现代语言的特性</strong><br />
+<strong>3、更快、更安全、提高开发效率</strong><br />
+<strong>4、吸引更多的开发者进入，更低门槛</strong><br />
+<strong>5、面向未来的尝试，比如playground（可视化编程）</strong></p>
 <h2><a id="%E5%AF%B9%E6%AF%94%E9%87%8A%E4%B9%89" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>对比释义</h2>
 <p>它是一款易学易用的编程语言，而且它还是第一套具有与脚本语言同样的表现力和趣味性的系统编程语言。Swift的设计以安全为出发点，以避免各种常见的编程错误类别。</p>
 <h2><a id="%E4%BC%98%E7%BC%BA%E7%82%B9" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>优缺点</h2>
