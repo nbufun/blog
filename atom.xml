@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Andmore]]></title>
-  <link href="https://nbufun.github.io/blog/home/atom.xml" rel="self"/>
-  <link href="https://nbufun.github.io/blog/home/"/>
-  <updated>2022-08-09T18:41:15+08:00</updated>
-  <id>https://nbufun.github.io/blog/home/</id>
+  <link href="https://nbufun.github.io/blog/atom.xml" rel="self"/>
+  <link href="https://nbufun.github.io/blog/"/>
+  <updated>2022-08-09T18:49:33+08:00</updated>
+  <id>https://nbufun.github.io/blog/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -14,9 +14,9 @@
   
   <entry>
     <title type="html"><![CDATA[Swift大方向]]></title>
-    <link href="https://nbufun.github.io/blog/home/16493036262087.html"/>
+    <link href="https://nbufun.github.io/blog/16493036262087.html"/>
     <updated>2022-04-07T11:53:46+08:00</updated>
-    <id>https://nbufun.github.io/blog/home/16493036262087.html</id>
+    <id>https://nbufun.github.io/blog/16493036262087.html</id>
     <content type="html"><![CDATA[
 <h2><a id="%E7%9B%AE%E7%9A%84" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>目的</h2>
 <p><strong>1、去除C</strong><br />
@@ -118,9 +118,9 @@ block和闭包都经常用于回调</p>
   
   <entry>
     <title type="html"><![CDATA[专利]]></title>
-    <link href="https://nbufun.github.io/blog/home/16401895522618.html"/>
+    <link href="https://nbufun.github.io/blog/16401895522618.html"/>
     <updated>2021-12-23T00:12:32+08:00</updated>
-    <id>https://nbufun.github.io/blog/home/16401895522618.html</id>
+    <id>https://nbufun.github.io/blog/16401895522618.html</id>
     <content type="html"><![CDATA[
 <ul>
 <li><a href="https://zhuanli.tianyancha.com/62307b292cc4363d041f8acb742479fb">一种基于用户行为特征的用户身份验证方法及装置</a></li>
@@ -140,9 +140,9 @@ block和闭包都经常用于回调</p>
   
   <entry>
     <title type="html"><![CDATA[everisk]]></title>
-    <link href="https://nbufun.github.io/blog/home/16403420599898.html"/>
+    <link href="https://nbufun.github.io/blog/16403420599898.html"/>
     <updated>2021-12-24T18:34:19+08:00</updated>
-    <id>https://nbufun.github.io/blog/home/16403420599898.html</id>
+    <id>https://nbufun.github.io/blog/16403420599898.html</id>
     <content type="html"><![CDATA[
 <p>everisk概要架构图：<br />
 <figure><img src="https://s2.loli.net/2021/12/24/tCH7fLXB5WKilov.jpg" alt="" /></figure></p>
@@ -152,9 +152,9 @@ block和闭包都经常用于回调</p>
   
   <entry>
     <title type="html"><![CDATA[缓存组件研究与优化]]></title>
-    <link href="https://nbufun.github.io/blog/home/16402520981792.html"/>
+    <link href="https://nbufun.github.io/blog/16402520981792.html"/>
     <updated>2021-12-23T17:34:58+08:00</updated>
-    <id>https://nbufun.github.io/blog/home/16402520981792.html</id>
+    <id>https://nbufun.github.io/blog/16402520981792.html</id>
     <content type="html"><![CDATA[
 <blockquote>
 <p><a href="media/16402520981792/cache_research.pdf">cache_research</a></p>
